@@ -202,7 +202,7 @@ body {
   background: var(--gray-400);
   border-radius: 2px;
   transform-origin: right center;
-  transform: translateY(-50%) rotate(-35deg);
+  transform: translateY(-50%) rotate(-50deg);
   transition: transform var(--transition-slow);
 }
 
